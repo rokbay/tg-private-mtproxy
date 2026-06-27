@@ -5,5 +5,5 @@ FROM seriyps/mtproto-proxy:latest
 EXPOSE 7860
 
 # Define parameters directly via arguments 
-ENV SECRET=PASTE_YOUR_32_CHARACTER_HEX_SECRET_HERE
+ENV SECRET=5e86e74dc8784ebca4ecd461b1bbdf4b
 ENV PORT=7860
